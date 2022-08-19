@@ -757,6 +757,10 @@ file = "config/yigd.toml"
 hash = "da114f404d1f103bd1d2766b8b75757f76599e82e7c6430c61662d046fc50f83"
 
 [[files]]
+file = "manual-download.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "d187be76f7269a8a2662eb35cb34549d7b5fa8b0494b015cf3144bd5f1f0bb0e"
 metafile = true
@@ -883,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -1119,11 +1123,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
-hash = "072c99965d0ee1273885c6934ca214b3b25b36898a55aa3f0748c53d293aa339"
 metafile = true
 
 [[files]]
@@ -1500,7 +1499,3 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "260ba71b1c6cf25600a44f2c81af77fd0b1b0ab8d1f4ba875b3d521161e2d113"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "4829392708d284aacb041ef29330596ec12b9706bad9d6bd5bc73696c84cffb1"
