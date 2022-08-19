@@ -1,0 +1,13 @@
+name = "Spellbound Enchantments [Fabric]"
+filename = "spellbound-1.10.0-test6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92b2dc5939bb922d8f2dbf96da51ad276ca0f00d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3934525
+project-id = 434965

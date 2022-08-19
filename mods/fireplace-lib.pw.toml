@@ -1,0 +1,13 @@
+name = "Fireplace Lib"
+filename = "Fireplace-Lib-Fabric-7.0.2+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ING0LAPF/versions/7.0.2+1.19+fabric/Fireplace-Lib-Fabric-7.0.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "4d2f15074bd165026c6f1208d254ddf5a032d468"
+
+[update]
+[update.modrinth]
+mod-id = "ING0LAPF"
+version = "rt7qixYF"

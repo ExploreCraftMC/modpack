@@ -1,0 +1,13 @@
+name = "ExploreCraft"
+author = "Sangelo"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef90b1bf34664471f28c87509205ad0abf50e276366114cdb1ba67124d1eb4a5"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.3"

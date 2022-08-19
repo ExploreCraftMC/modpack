@@ -1,0 +1,13 @@
+name = "Sentimentality 3"
+filename = "sentimentality3-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a71c0b3deb845bb5a75309226833b9fa4a3f0240"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821797
+project-id = 431239

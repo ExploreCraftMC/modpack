@@ -1,0 +1,13 @@
+name = "Simple Backpack [FABRIC]"
+filename = "SimpleBackpack_Fabric-1.19.1-1.3.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f3ddde08b27c5d43b32481c9f6eb1885d28ddae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902855
+project-id = 383999

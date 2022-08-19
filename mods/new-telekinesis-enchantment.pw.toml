@@ -1,0 +1,13 @@
+name = "New Telekinesis Enchantment"
+filename = "telekinesis-mod-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qO6AhOCB/versions/1.1.0/telekinesis-mod-1.1.0.jar"
+hash-format = "sha1"
+hash = "e8bc84ef9bf90bc064c1d0e247d92bf297955003"
+
+[update]
+[update.modrinth]
+mod-id = "qO6AhOCB"
+version = "zLP1NGPm"
