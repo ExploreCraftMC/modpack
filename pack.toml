@@ -1,12 +1,12 @@
 name = "ExploreCraft"
 author = "Sangelo"
-version = "1.1.0"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6976954908683f9e8b79e1dd7a17cd920de955faeceee6733b473614fca8548c"
+hash = "0e6f00ff7df40feba3a7f4561cd69c8a109b763a628d440e17d9b6f2808767a6"
 
 [versions]
 minecraft = "1.19"

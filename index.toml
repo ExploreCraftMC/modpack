@@ -946,11 +946,6 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
-file = "mods/eden-ring.pw.toml"
-hash = "83bc6beb12871fe71523c4bd67ab2d94b7fa13ede9051dbdfac195d319955add"
-metafile = true
-
-[[files]]
 file = "mods/editsign.pw.toml"
 hash = "65b35f761e6b85fb1fa4707b81bb808ccbb13b64eb26e92aed2ba4b2c29ce975"
 metafile = true
@@ -1183,11 +1178,6 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals_decorations.pw.toml"
 hash = "f2347497a3ec8efb7c35fe441fe58e535c2da6f2aa8a818dea03cfc6a9c465f0"
-metafile = true
-
-[[files]]
-file = "mods/new-telekinesis-enchantment.pw.toml"
-hash = "91a94196704b06ecfc7c76e65e4822432ef11167b040a53815f5c70f8640970a"
 metafile = true
 
 [[files]]
