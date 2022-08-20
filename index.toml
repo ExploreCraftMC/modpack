@@ -1192,8 +1192,8 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "50812dc09f221ed35713f5c069168e3dc33e5240800eee6746da96182a27d614"
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "bb959c50d3f49c2d003db5cd6c3a851b8360f6b1319e4f6feb9e5d5828d799ee"
 metafile = true
 
 [[files]]
