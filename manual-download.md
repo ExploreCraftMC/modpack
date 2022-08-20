@@ -14,4 +14,4 @@ After downloading all the mods, drag them into your instance's mods tab:</br>
 After that, you should be good to go. Click continue and watch the game boot up:</br>
 ![Continue Button](https://i.imgur.com/65ERiHU.png)
 
-[**🠔 Back to README.md**](/)
+[**🠔 Back to README.md**](/README.md)
