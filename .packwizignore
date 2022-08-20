@@ -1,2 +1,3 @@
-# Exclude the README file
+# Exclude the README files
 /README.md
+/manual-download.md
