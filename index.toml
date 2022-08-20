@@ -757,10 +757,6 @@ file = "config/yigd.toml"
 hash = "da114f404d1f103bd1d2766b8b75757f76599e82e7c6430c61662d046fc50f83"
 
 [[files]]
-file = "manual-download.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/addadd.pw.toml"
 hash = "d187be76f7269a8a2662eb35cb34549d7b5fa8b0494b015cf3144bd5f1f0bb0e"
 metafile = true
@@ -1243,6 +1239,11 @@ metafile = true
 [[files]]
 file = "mods/picturesign.pw.toml"
 hash = "de98473ec784d53d4dc03aeb17dbc562658d02da5ff9222b43b9b87c20b51dd9"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "44835658db8cb49e839bd9b54b3a7c8a0cd234314f7837680685f77a1cb3dcd0"
 metafile = true
 
 [[files]]
