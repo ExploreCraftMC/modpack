@@ -1307,11 +1307,6 @@ hash = "c90a9dbbeed37b4032e105331d8b9f4c2ca5e710ab0a7e6034df8ecc44798349"
 metafile = true
 
 [[files]]
-file = "mods/searchable-containers-retraversal.pw.toml"
-hash = "5de1a8776f9235a58667ef4dec3c9f8a3847da4fb6e4a5a1999021b719649ee4"
-metafile = true
-
-[[files]]
 file = "mods/sentimentality.pw.toml"
 hash = "f517b41905536425d2f3bf3b5401759b819fd223a7726b84306ec82372bf52a3"
 metafile = true
