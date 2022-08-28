@@ -867,6 +867,26 @@ hash = "5849beece9be8e990e663f4e97da5246bddbd7c0450d7a54bb7abd869a3e6dad"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "b8158807deb51762fccfabf3c74ed3610769ed052b318d8f23814d99177646fb"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "86563961328c167bbc16fbff56d1c9a54f192749c5da3615a571a2968e00f841"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "3eb404aa3e5431eb0d5c38c0996b97db033fed570efe4b0a852fa183c56858ce"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "4eac356698bfb5c44c33e83535094428c3708d6d3cd3db637efe5ec435c261dd"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "d16e0db41806840dc72dfa44174896e088dd325249fc17ca0dac69af9fdc0518"
 metafile = true
@@ -1129,6 +1149,11 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "6908b34cedb8e553a711ac918c661ecab9b13768f6b6369c9c0e14e2f0628a4b"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
 metafile = true
 
 [[files]]
