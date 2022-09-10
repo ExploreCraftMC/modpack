@@ -1106,6 +1106,11 @@ hash = "29bf4b9e747ca85980f003a2d301e4d02f83886ecfeffc283d2742d4e774acc9"
 metafile = true
 
 [[files]]
+file = "mods/ihgm.pw.toml"
+hash = "03ed73d0d9116be104bf1b395d71aba501351cc022ac9d02a26699665453e054"
+metafile = true
+
+[[files]]
 file = "mods/illuminations.pw.toml"
 hash = "3f6da5e369effa47f662723c3b8c8bc1b6756c03c7dc10dbc3ab6fb49ed17beb"
 metafile = true
