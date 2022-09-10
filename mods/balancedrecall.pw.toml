@@ -1,0 +1,13 @@
+name = "Balanced Recall"
+filename = "balancedrecall-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3YyJXLPe/versions/1.1.0+1.19/balancedrecall-1.0.1.jar"
+hash-format = "sha1"
+hash = "2d6ebede104dc50f6274a3ee436b80a9932a958a"
+
+[update]
+[update.modrinth]
+mod-id = "3YyJXLPe"
+version = "1KrZ90wi"

@@ -757,6 +757,10 @@ file = "config/yigd.toml"
 hash = "da114f404d1f103bd1d2766b8b75757f76599e82e7c6430c61662d046fc50f83"
 
 [[files]]
+file = "install"
+hash = "4c3f8cc57b7d58a82dc1c0c0211c061fac23905f3bad1c05f15ac6342406aea9"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "d187be76f7269a8a2662eb35cb34549d7b5fa8b0494b015cf3144bd5f1f0bb0e"
 metafile = true
@@ -764,6 +768,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
@@ -807,8 +816,18 @@ hash = "fada6c5111be510ce9dcda58588edd0d694e11bc040fcc2afe0586e8560abb49"
 metafile = true
 
 [[files]]
+file = "mods/automated-crafting.pw.toml"
+hash = "a97d2b4487795f94b0ee5e0b6914ba09ff3c50d1cc4f5c38b6226dc63c6d2719"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/balancedrecall.pw.toml"
+hash = "7e2b2fb3e26e701c7b7575f7945ecfd9b32f017df747a2a0b68d8d52d3bfd1e9"
 metafile = true
 
 [[files]]
@@ -893,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
-hash = "bbef11b5078a543089dbb961604f7b14e236985d5ed38225ce8836da29fbf02c"
+hash = "40e40000ab1c16c9e21ffeb0a26cf97fa61caa317313a55a7b3a1d647485fcfe"
 metafile = true
 
 [[files]]
@@ -977,6 +996,11 @@ hash = "cf9c08e9c7d76150fcb49babe437b495693b165b4d77ed6eac5f8b2934e97683"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "1e6053ff899e8bd95d69de3460f4614ee905b9316330f98549aae0602d244a2b"
+metafile = true
+
+[[files]]
 file = "mods/entity-banners.pw.toml"
 hash = "7f4f7cffb3dd18a03a70a25fe843040a3fcf7c44c4f193dab6feb95d243ca4c2"
 metafile = true
@@ -997,8 +1021,18 @@ hash = "f01d3f9aa3d496e168c742b298efa9744eb868eb8a6c3c7ec91c06e704020af5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-chisel.pw.toml"
+hash = "60a510b286618599b75dd8f3e1c7251384d9a9e85c6d808824a997b01d4454ca"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "cc572f7d696a52ea00f58bbc57eb10e4c6f90c808bdbf7b4425b28ad127d5b68"
 metafile = true
 
 [[files]]
@@ -1137,6 +1171,11 @@ hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
+file = "mods/lotta-blocks.pw.toml"
+hash = "54670fa2ffa2fd0e40858fd50e1ade8e57a2f02788f5c3d4cfd8d3a313af6484"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "b17ce1c86de7cf2b230e663513576bea860d33a46d264c8fc3a064a9d0a5edb2"
 metafile = true
@@ -1232,6 +1271,11 @@ hash = "3c8fe731fb71a54ebf7953763c026d8b754d20784c707359287f34afee77a094"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "b39f455dd227805ff9849307b01dbe61cfd5b8326412a1638803d1c19766ce4f"
+metafile = true
+
+[[files]]
 file = "mods/ost-overhaul.pw.toml"
 hash = "4e6e7f9330ad4ad6db324926e94f681c34eb175414f842ae764d4315bbf0377f"
 metafile = true
@@ -1273,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
 metafile = true
 
 [[files]]
@@ -1297,8 +1341,18 @@ hash = "7893ff51f19f0f0f12d8cc5ffca583ec00ffa26a0a380d5fcb62aa11c1f70d7b"
 metafile = true
 
 [[files]]
+file = "mods/qu-enchantments.pw.toml"
+hash = "37d64f83998f02e17d2800bf75058ff633d4e5bce868bf01975d15b8362ce992"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "2e814a41e25a222c3d0363931887da7b8c63522281a7044a21dda255f8318b5e"
+metafile = true
+
+[[files]]
+file = "mods/quiltgoslighlyfasterlol.pw.toml"
+hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]
@@ -1422,6 +1476,16 @@ hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
 metafile = true
 
 [[files]]
+file = "mods/sticky-hopper.pw.toml"
+hash = "6f73205b6804bb6ea452532504383789ec2c0fd268cf8fbccbd0b79ebad864af"
+metafile = true
+
+[[files]]
+file = "mods/tatercart.pw.toml"
+hash = "34858b09c7604d4da8e6feedc2485f0f3eba3499e43b09a71eea33f5f4917c40"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
@@ -1432,13 +1496,23 @@ hash = "cbe81c20b3a915d640761b0ac4c5c29eefc4809384666c25af025c67307229d2"
 metafile = true
 
 [[files]]
+file = "mods/telepistons.pw.toml"
+hash = "132af59eb6fd983c3765a6c6bc1efd870b444499ea78f899d7a4e650757eadb9"
+metafile = true
+
+[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "3c8e4b1db1fc289b70e2b95d57ddf42f2a5306c4a114435c8e0a6f98d32cc37a"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "f238bd6ca43f8922cf522b00ea94728a192b9cf984167e6679839ddf227c70ab"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-fabric.pw.toml"
-hash = "349a8422024723bf3efbdbff582587ef02a07585e5d17cf98189374a42f6cb78"
+hash = "32bee1f8707a7c37c35c337fde257edc27261d0a488392dc84f8484954dc9ebe"
 metafile = true
 
 [[files]]
@@ -1472,6 +1546,16 @@ hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "9435698f904415f25c5da69bdda36652a720da9841eb74fbac40ce524727a3d7"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "cb965f73f316df87e7615cd2a6bc482a262fef56a06e598b2946bee55fdf7dcc"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "3712c67c4b3626bd4488df8dde5d741e04aa8e255a18b42d5eb52f35a3fb6551"
 metafile = true
@@ -1488,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e9dbe265c6c241e237b976466ca84b4e70310937267b067efec6410149dfc921"
+hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
 metafile = true
 
 [[files]]
