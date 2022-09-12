@@ -1316,6 +1316,11 @@ hash = "de98473ec784d53d4dc03aeb17dbc562658d02da5ff9222b43b9b87c20b51dd9"
 metafile = true
 
 [[files]]
+file = "mods/piercing-paxels.pw.toml"
+hash = "55138c92418217fac81b567e9ad616542bbee9d3e85ccbf2eaeabcfc1591820a"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "44835658db8cb49e839bd9b54b3a7c8a0cd234314f7837680685f77a1cb3dcd0"
 metafile = true
