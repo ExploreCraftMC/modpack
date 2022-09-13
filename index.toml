@@ -1301,11 +1301,6 @@ hash = "602bd67a9bb4a39330a67c037bcbf8d0a6631f53374d6d2c4a8311fcad425f5f"
 metafile = true
 
 [[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "02d1024c42cd3671768a7b851a5dc95498b28b892581cd0969bf7c8a44277266"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
