@@ -1056,6 +1056,11 @@ hash = "685933ca75866fd4024839c2e1179e5979a00ce55ec9433bb1075e151b919647"
 metafile = true
 
 [[files]]
+file = "mods/firework-frenzy.pw.toml"
+hash = "2323fa59b9025c69e6901e660888f4b2c912df3976f820c44fea18e3c243a54d"
+metafile = true
+
+[[files]]
 file = "mods/fish-of-thieves.pw.toml"
 hash = "b170bf5f355d16cf6a1fc1afff456c00cf9b2d5ee92f195d8a017251842b5776"
 metafile = true
@@ -1293,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "602bd67a9bb4a39330a67c037bcbf8d0a6631f53374d6d2c4a8311fcad425f5f"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "02d1024c42cd3671768a7b851a5dc95498b28b892581cd0969bf7c8a44277266"
 metafile = true
 
 [[files]]
