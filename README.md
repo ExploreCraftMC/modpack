@@ -4,7 +4,7 @@ This is ExploreCraft! A modpack for Minecraft 1.19 (Quilt) designed to keep you 
 To get started, go to the [releases](https://github.com/ExploreCraftMC/modpack/releases) tab and download the latest version.
 
 ## Installation
-To install this modpack, you'll either need [**PolyMC** (Recommended)](https://polymc.org) or [**MultiMC**](https://multimc.org).
+To install this modpack, you'll either need [**PrismLauncher** (Recommended)](https://prismlauncher.org/) or [**MultiMC**](https://multimc.org).
 
 1. Create a new instance by using Ctrl-N (Or CMD-N on MacOS).
 Open the "Import from ZIP" tab, and choose the file you just downloaded.
