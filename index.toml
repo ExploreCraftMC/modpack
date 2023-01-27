@@ -51,6 +51,11 @@ hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
