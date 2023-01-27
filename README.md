@@ -1,7 +1,10 @@
-# ExploreCraft 1.19 (Quilt)
-This is ExploreCraft! A modpack for Minecraft 1.19 (Quilt) designed to keep you moving. You may never know what you'll find, after all.
+# ExploreCraft: Marbled (1.19.2 Quilt)
+This is ExploreCraft! A modpack for Minecraft 1.19.2 (Quilt) designed to keep you moving. You may never know what you'll find, after all.
 
 To get started, go to the [releases](https://github.com/ExploreCraftMC/modpack/releases) tab and download the latest version.
+
+### Note:
+Any worlds created with the now legacy version of ExploreCraft will **NOT** be compatible with ExploreCraft: Marbled. Please be aware that legacy worlds **will** corrupt in EC: Marbled.
 
 ## Installation
 To install this modpack, you'll either need [**PrismLauncher** (Recommended)](https://prismlauncher.org/) or [**MultiMC**](https://multimc.org).
