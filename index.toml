@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "install"
-hash = "2d40baa741fece223563ec096179fc4884a8bf0144f2ac77ac9867050fc77239"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
@@ -20,8 +16,23 @@ hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "69ff69fc11e380ea960d04b809f724275866e96f4fe7600a64e420357632a725"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
 metafile = true
 
 [[files]]
@@ -72,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
+metafile = true
+
+[[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "257fbabe126fd6280f855c30b3a827cb0ab343cceb6374b374951c3384ce6ddc"
 metafile = true
 
 [[files]]
@@ -245,6 +261,11 @@ hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -285,6 +306,11 @@ hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "399dd43e5177971f4bd1f201d18ab0ef6b554ae89ac96fc252b8b8d67978cd64"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
@@ -300,8 +326,18 @@ hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/ma-enchants.pw.toml"
+hash = "c997694bdd2af57c008072efa0ea81747768df18bec04a88553d68e6e8b3c42d"
 metafile = true
 
 [[files]]
@@ -380,6 +416,16 @@ hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
+file = "mods/mythic-upgrades.pw.toml"
+hash = "45e00c8937d88445aa2bb9fa9499f4a440f0518397591d69840ada210ecfd210"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "e0c137e731158cff47ea992778edda280be964099dd3843a483d6412b7eafdd2"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
 metafile = true
@@ -422,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
 
 [[files]]
@@ -470,6 +521,11 @@ hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "5cf3f81549c6f557ad61bfae01f7a306b62d2e9df6d3875bdcee6976e7eb4a83"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
@@ -477,6 +533,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0e5d25f9f7d06bf3c50d2b3f7ad5a00f43a5e5f056641b6b24eaf4d0b24e6119"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages-fabric.pw.toml"
+hash = "aa017222e82746915b3314abd01bcffd4561192b0ef669fa8d559b40288a36bb"
+metafile = true
+
+[[files]]
+file = "mods/skylib.pw.toml"
+hash = "6803ee2e6d7f6d15d6a9d7198fb37c57af5294e94dba16df1aec8db6f8a7ed1d"
 metafile = true
 
 [[files]]
@@ -515,8 +581,23 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/tfas.pw.toml"
+hash = "87eb3a34c7185b34f3041cfaf613619a572df08cacd96e3a2b1f599854980c34"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "c781c968a8c24250cacb96339a8231076b24317c7c61efc144e1391bf3a4f478"
+metafile = true
+
+[[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "8ae3b1e45feb1458fd7d9f2a776e917e7a1795add14b8699c2ef5ab9b7602588"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -532,4 +613,39 @@ metafile = true
 [[files]]
 file = "mods/your-reputation.pw.toml"
 hash = "8379255314bce0cdf2d2e179c0e6c30c9c175fab5c25d003497b7621da6b5298"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d6126b71de887bf0b23a4a064b5f9ebb2f4848533f3b098703c3917ba63e5c69"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "8323d5b77249afed08a178a9a8002ef7a09850e3e3c9dfb942cae17403748565"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "50c2ce35a2678f4666e700b43da4c48d2a47fbd04ac35cc735ca20a846686aed"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "db24b9f5262599c4a358be6e80e78a9fc0e4ad46b4dd00435aca9f76a60d7ca0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "b097a8278c0395cca7aa1cbe8dc446973478d1b7729e30e836962a55275ef7b0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
