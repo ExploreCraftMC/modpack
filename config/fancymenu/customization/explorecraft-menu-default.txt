@@ -1,0 +1,161 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -51
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-left
+  x = 2
+  action = movebutton
+  y = -22
+}
+
+customization {
+  identifier = %id=376310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -75
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 232
+  action = deep_customization_element:title_screen_branding
+  actionid = 37ead5bc-89b0-4f54-a4e4-29b69304bfdd1674924054693
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 577
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 8ceb1af4-acf5-4d8d-b4fe-133440d09cdb1674924054699
+  y = 226
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 7cbf11cc-b7c0-4f28-8fac-65f67bebb1571674924054699
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 99ea6f2d-f2f9-4704-a43d-7f71deda2c891674924054699
+  y = 0
+  height = 30
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 40
+  showname = false
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/f9a76537647989f9a0b6d001e320dac591c359e9e61a31f4ce11c88f207f0ad4
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 3bd7caff-faa5-4f76-b1f8-7eaff32fda0e1674925967896
+  playername = Sangelo_
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 72
+  orientation = top-left
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/a1689082edb377a8b778406d967a5b1ce7525b009af54cd3c6065f1051225e7d
+  crouching = false
+  x = 742
+  width = 24
+  parrot_left_shoulder = false
+  y = 189
+  parrot = false
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = Hello {"placeholder":"playername"}!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 654
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 7cd27375-21bb-4635-90cc-14da216505d11674926089741
+  y = 272
+  alignment = centered
+  height = 12
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = ExploreCraft: Marbled by Sangelo
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 2
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 19373085-cdc2-4f2c-a5c6-9e7a4a5976241674927759613
+  y = 507
+  alignment = left
+  height = 9
+}
+

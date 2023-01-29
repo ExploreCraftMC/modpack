@@ -2,6 +2,11 @@ name = "Effective 💦"
 filename = "effective-1.6+1.19.2.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Makes particles when you fall in water, and for waterfalls."
+
 [download]
 hash-format = "sha1"
 hash = "b84e05a57c10d26edb1d1c20d253511ee9f34621"

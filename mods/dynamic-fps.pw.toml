@@ -2,6 +2,11 @@ name = "Dynamic FPS"
 filename = "dynamic-fps-2.2.0.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Lowers your FPS when not needed, for example, when Minecraft runs in the background."
+
 [download]
 url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar"
 hash-format = "sha1"

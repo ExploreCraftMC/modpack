@@ -2,6 +2,11 @@ name = "ClickThrough"
 filename = "clickthrough-1.19.1-fabric0.58.5-0.4.jar"
 side = "both"
 
+[option]
+optional = true
+default = true
+description = "Click through signs and item-frames placed onto chests."
+
 [download]
 url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.19.1-fabric0.58.5-0.4/clickthrough-1.19.1-fabric0.58.5-0.4.jar"
 hash-format = "sha1"

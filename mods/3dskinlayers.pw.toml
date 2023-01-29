@@ -2,6 +2,11 @@ name = "3D Skin Layers"
 filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Replaces the usually flat second layer of player skins with a 3d modeled version. Also supports transparent parts on things like glasses!"
+
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
 hash-format = "sha1"
