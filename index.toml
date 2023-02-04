@@ -531,6 +531,11 @@ hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "ac6a4cf7efb81f4d8976caec374b680f69f79740cc93b5331abd35418f43299f"
 metafile = true
@@ -678,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "95d573e09df96d3d984e9c08fa809297f3fcb6ae19ec43983f665bb20f7ad446"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
 
 [[files]]
