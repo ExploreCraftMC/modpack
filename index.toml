@@ -616,11 +616,6 @@ hash = "2dca35a5012c266919b0443106303c26f67f655f85e895faf4802b891bfd571a"
 metafile = true
 
 [[files]]
-file = "mods/openblocks-elevator-fabric.pw.toml"
-hash = "d136e751b66522e0396106c3b49e1be25e654497c3813d8208dead2201d9d04e"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
