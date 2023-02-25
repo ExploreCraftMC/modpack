@@ -1,0 +1,13 @@
+name = " OpenBlocks Elevator (Fabric)"
+filename = "openblockselevator-0.0.2-1.19.X.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v8XOAQUM/versions/rsWhP1Dr/openblockselevator-0.0.2-1.19.X.jar"
+hash-format = "sha1"
+hash = "926fd1d15a2aa6004b348a722f5d67a86f715dfe"
+
+[update]
+[update.modrinth]
+mod-id = "v8XOAQUM"
+version = "rsWhP1Dr"

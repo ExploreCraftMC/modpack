@@ -1,12 +1,12 @@
 name = "ExploreCraft: Marbled"
 author = "Sangelo"
-version = "2.0-SNAPSHOT"
+version = "2.0_Pre-Release"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "153cc0c35ce5caee384ecea00ed3429437726970d4028995fae87bd44781ce66"
+hash = "5b95bdea9477c53fe5bfc07195807a58eae42ffc7f85f063e3175a35a4e4159f"
 
 [versions]
 minecraft = "1.19.2"
