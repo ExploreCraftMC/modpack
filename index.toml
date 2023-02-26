@@ -136,6 +136,11 @@ hash = "110104a692a585005b21072118d2bdf0b068f06acbfe5c7bca5393a741463f5f"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "00d681cbb06a1aa3888fad4474c05e57ebbc3cfbec07da688584a5ab5a4e57be"
 metafile = true
