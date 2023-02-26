@@ -666,6 +666,11 @@ hash = "96e2449dabc91f4ea7c19a2b437ab455fef61679eff48b272b1979124b8a0f12"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "8caa7ac143e34732df295e0bd03b68841239172811da137e6429d2701f0410e4"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
