@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "1de7ecd7fe4ab7fff297c68d46c29b3296f283e4ff6f6f3cc2a0e8fa8de5b1a9"
+hash = "50d1f22cff25e4def9498c6b42d80453fa6f13482f008bb429c1f2ad80ff9ff9"
 metafile = true
 
 [[files]]

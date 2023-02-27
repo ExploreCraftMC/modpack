@@ -1,6 +1,6 @@
 name = "Effective 💦"
 filename = "effective-1.6+1.19.2.jar"
-side = "client"
+side = "both"
 
 [option]
 optional = true
