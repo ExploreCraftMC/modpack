@@ -33,12 +33,20 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/capetweaks.properties"
+hash = "1596809057f1b5d6425ce8d1c0d927f4398f640f5ab1db07e2d52ebc4864639f"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/chunky/config.json"
 hash = "6c103db0800e63ba88c2296e42fb8f5e631f70ea17b8c5d77bef0166d0662d96"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "b80ddaabfcd550d12b5d22e45febbd5b442e4df60b6803747d1f673478b2a6d6"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
@@ -227,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/capetweaks.pw.toml"
-hash = "40be8fedc25e8bd91b6096f1423047f7f5d7db33e5037cb3cf13cd6c593930a6"
+hash = "a6af3552fbfd700e91e092eafd0d82f40fff4ce60d18ef42a1273930627ed1ac"
 metafile = true
 
 [[files]]
@@ -247,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "1a62c3ac192635b6d4e6dfd11983bfc398c471465b0236c284b8a063e1989621"
+hash = "48bbb6b7ecc1c90132e5c9e07bb125ffe17b09dd2b3e9edb58fa1d032ac1484f"
 metafile = true
 
 [[files]]
@@ -307,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
-hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
+hash = "518c173ae0ecaffecb502e852637a3c90719db82c552acce29c193b3a1a80658"
 metafile = true
 
 [[files]]
@@ -322,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "50d1f22cff25e4def9498c6b42d80453fa6f13482f008bb429c1f2ad80ff9ff9"
+hash = "1de7ecd7fe4ab7fff297c68d46c29b3296f283e4ff6f6f3cc2a0e8fa8de5b1a9"
 metafile = true
 
 [[files]]
@@ -332,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/emuno.pw.toml"
-hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
+hash = "b3da1abe78fd1a05410018a02b5d4a2bf15f017bcde0a41f6b065cb4ba1f150d"
 metafile = true
 
 [[files]]
@@ -797,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-binds.pw.toml"
-hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
+hash = "4271e873f965e50d538a21c30ee6008cc189f9f4a1f3fb16e089e953577f6728"
 metafile = true
 
 [[files]]
