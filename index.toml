@@ -196,6 +196,11 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
+file = "mods/block_limit_fix.pw.toml"
+hash = "c1f2120122972062a6e4be666e432b4a748eabdc977e801b3d7db9f974a05145"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "bb3238ceb56c13b0a37e89c8836e0a56c63159b74c2f4e0dbfb93018c06bcd81"
 metafile = true
