@@ -1,0 +1,13 @@
+name = "Amethyst Tools"
+filename = "amethyst-tools-v1.0_fabric+quilt_mc1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cDLpxHsV/versions/4MvmxPS9/amethyst-tools-v1.0_fabric%2Bquilt_mc1.19.x.jar"
+hash-format = "sha1"
+hash = "3389ab5bc884277b21edecafee0cdefcf14deb0f"
+
+[update]
+[update.modrinth]
+mod-id = "cDLpxHsV"
+version = "4MvmxPS9"

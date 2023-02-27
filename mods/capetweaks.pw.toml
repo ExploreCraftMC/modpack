@@ -2,6 +2,11 @@ name = "CapeTweaks"
 filename = "capetweaks-1.0.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Fixes bugs with capes."
+
 [download]
 url = "https://cdn.modrinth.com/data/PIG91bQ2/versions/1.0.1/capetweaks-1.0.1.jar"
 hash-format = "sha1"

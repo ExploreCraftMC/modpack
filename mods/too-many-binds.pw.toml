@@ -2,6 +2,11 @@ name = "Too Many Binds"
 filename = "toomanybinds-0.3.3+1.19.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Search for keybinds you cannot map"
+
 [download]
 url = "https://cdn.modrinth.com/data/548fsydf/versions/PxnbyXpO/toomanybinds-0.3.3%2B1.19.jar"
 hash-format = "sha1"

@@ -96,6 +96,11 @@ hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
 metafile = true
 
 [[files]]
+file = "mods/adapaxels.pw.toml"
+hash = "f03bd17d53705dd9652ef033589ca3e5441c085e6ad4cba6a5d3c0d2ee9d1baa"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "824be6ecd42bef20ead6eaf146498330d09510a5771417ebc425d4ec3a3e138a"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-tools.pw.toml"
+hash = "52570fef2abab9830ae77f58b73b7625a7dd888078f3d89cdb9a7dd4c569d8e3"
 metafile = true
 
 [[files]]
@@ -678,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
+file = "mods/quiltgoslighlyfasterlol.pw.toml"
+hash = "feee9284053ffd6435907d1bf3b5fdb7e9010237bb2a4b6a912d6f1389f8def7"
 metafile = true
 
 [[files]]

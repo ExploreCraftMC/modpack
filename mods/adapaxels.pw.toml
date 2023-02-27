@@ -1,0 +1,13 @@
+name = "AdaPaxels"
+filename = "adapaxels-1.4.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44b73d4232005d7ea1a2d24845aee3b1526b7661"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987506
+project-id = 406691

@@ -2,6 +2,11 @@ name = "Draggable Resource Packs"
 filename = "draggable-resource-packs-mc1.19-3.0.1+build.9.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Drag around your resourcepacks instead of clicking buttons."
+
 [download]
 url = "https://cdn.modrinth.com/data/aLcHfalx/versions/3.0.1/draggable-resource-packs-mc1.19-3.0.1%2Bbuild.9.jar"
 hash-format = "sha1"
