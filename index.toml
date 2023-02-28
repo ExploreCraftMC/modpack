@@ -329,6 +329,11 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
 file = "mods/effective.pw.toml"
 hash = "50d1f22cff25e4def9498c6b42d80453fa6f13482f008bb429c1f2ad80ff9ff9"
 metafile = true
