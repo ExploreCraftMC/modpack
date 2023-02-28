@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "CIT Resewn is MCPatcher's CIT features re-written outside of OptiFine as a standalone mod for Fabric."
+description = "CIT Resewn is MCPatcher's CIT features re-written outside of OptiFine as a standalone mod for Fabric. Improves resource-pack support for OptiFine packs"
 
 [download]
 url = "https://cdn.modrinth.com/data/otVJckYQ/versions/lYmW1wnD/CITResewn-1.1.2%2B1.19.2.jar"
