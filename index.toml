@@ -50,7 +50,7 @@ hash = "b80ddaabfcd550d12b5d22e45febbd5b442e4df60b6803747d1f673478b2a6d6"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "d6055224690c399a9657218b8fcb9fa2ff1f33a5f83e7a383f4b6aae835938d5"
+hash = "71d2c6cc31654e6d31b143b16a8c8d77aa6b32ca17f8816c5013e2a91100ee44"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -887,3 +887,743 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/craftable_bundles_leather/advancements/recipes/bundle_leather.json"
+hash = "0200f33c84d5a6c6ae3306156724abe3e63d38079c02e630c45b3b19dfbdc179"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/craftable_bundles_leather/recipes/bundle_leather.json"
+hash = "2409bfe97d21d779aa8e0d2af1976727c12026a5a246184446b4cebde148c948"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/advancements/recipes/building_blocks/dropper_to_dispenser/dispenser.json"
+hash = "a3cc98f2ca085a1e32ab2d24b2029149614b0fdb02dd181b0d5fceab226451ba"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/advancements/recipes/building_blocks/dropper_to_dispenser/dispenser_alternate.json"
+hash = "9d741ee009df4d89793a18bf237466d89bbc97e1f3cb5df79a5de4e582f5a4cd"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/recipes/dispenser.json"
+hash = "866e16328bce9eef80e573c6e2969a51ad7b9392f83e64eb204168b2b1ab0b0f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/recipes/dispenser_alternate.json"
+hash = "2d366b42e07bf51e489ffe9e4347d6de0a4359cd815502e29441fe193b7d9e8e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/acacia_wood.json"
+hash = "5ed22832ffec3b9170419a278bcde6d3e1b1bd147e07b267033d2af4b92db155"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/birch_wood.json"
+hash = "decde741ab56fc88ab7a00ecc6d49e1fb7595a21f0c66d43539035fe8127e94c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/bricks.json"
+hash = "5aa7a027e7b6179ceec8c552b4e9b667f3cff3a63277b32f668903318b5db72e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/crimson_hyphae.json"
+hash = "b91d4834e09ac7b287e6a83ceb768214a92e7605fbc0fe1bb79119b89a815318"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/dark_oak_wood.json"
+hash = "09b031197e0a8d12f9f4ac80cfd39ced2c456af8fa1494751c4e5c5b297b8213"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/jungle_wood.json"
+hash = "c098b19efb7c43c6c5e65eee877c403eb094fae6fd3dab34d241cc398f41d2a7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/mangrove_wood.json"
+hash = "f3d26b4fff8c9b018c7cf5959014ff1cfbda6904eabd031ff9ce8deb36535a2a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/oak_wood.json"
+hash = "ee2d22f68915997cbf6cf851ecaeb5207349871f5a1433790b41c149ae420533"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/spruce_wood.json"
+hash = "faa3eb9e9601669fdfda47bf3da9a4c67d7dba8210a5a1b9991631b419cb44a3"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_acacia_wood.json"
+hash = "62e42c847f1dae759cadbe7a5ee97919fcb0c368f070e5f91b5ac66b52dc6928"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_birch_wood.json"
+hash = "f3e4d2941bb3d3da186cc721f0da3d6bb66a2ef48fa757221d3818bdc515a95e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_crimson_hyphae.json"
+hash = "466c3cf2dc1e6187a964ef3de6f393b2342c51293d30f70abb0e9eb0cc72df3d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_dark_oak_wood.json"
+hash = "5f164aff5dda874c2dc768c28d805756ccc6b281c7186910a65ec04c5ddc314e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_jungle_wood.json"
+hash = "3bd31bc5fbd5c1d8974c0f286804fc22b94be8c9b13bcf705a298c1bc8ed2196"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_mangrove_wood.json"
+hash = "bc296703eb77ef46cd6a180f578b5831349e5b7fe6fe0a442226b0b01df3f5ab"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_oak_wood.json"
+hash = "82c559bdaf34c20943db0412bae8dbd580a69debf4e0fb0956f267efc30e6202"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_spruce_wood.json"
+hash = "be62eabb3f367177c942b77629cac6bd2f46fcaab0cb15029372c442e466ea3e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/stripped_warped_hyphae.json"
+hash = "bf9b6c9f0b0ecf674bbb671bd05805dff40bd0d9ed3735b17f89631d65a70ccb"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/warped_hyphae.json"
+hash = "9678e4c4f4b00591ea8ce602ee747a99ada7926542487807206f82e21e47e44b"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/mythicmetals/recipes/banglum_nuke_core.json"
+hash = "7cba4054b827ad383bc9bb566f01b68f985781ee84cf54a786e2aa4f7fa90b67"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/advancements/recipes/building_blocks/red_sand.json"
+hash = "d28e2c01013aafca80da351f9101968da9abbbba87dc40b68ad83c7633b71803"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/advancements/recipes/building_blocks/red_sandstone.json"
+hash = "677a2df5c26e4d7a10891240417a2b9cff08dcf9ee066950f3cab4904f997eca"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/advancements/recipes/building_blocks/smooth_red_sandstone.json"
+hash = "7d39ba21b8672fa1f9ee7ec8be8d2783a96018f47b63a0f6c868123dafca6552"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/recipes/red_sand.json"
+hash = "96f1533686a14de11b4dc815fc5be28b6cfd598fe527d9668066e945f48c6c52"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/recipes/red_sandstone.json"
+hash = "3fb0b49aea04627ee7bb399d8c6a2d6cc3faddd1f23c5f94c12859cacd415c71"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/recipes/smooth_red_sandstone.json"
+hash = "79b7a09d2ac4f920d0bf634e8817b40e1104624921b98e71a249c4480a12761e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/bed.json"
+hash = "ec94925613bfffa18b525f4e4ad89f2fc2538555aeab4cf6c5faa431ee95ffc4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/candle.json"
+hash = "2e16f6a2a0dfb918671c48e9d7e0da3ccad787a918917405a6a5e17102e0c5a6"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/concrete_powder.json"
+hash = "46cdd097cc85fe3787fa772e5593d5ca62e97e264b32b90d66e247a390f84ccc"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/glazed_terracotta.json"
+hash = "de4c74747feff4511c8abf5e1df6625441f79dfae7d3c1584101c3df84854ffa"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/stained_glass.json"
+hash = "58831d59dd17dde6b8c68af3bea19d470b4fdf5f82d47228885e7e0b673ae26d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/stained_glass_pane.json"
+hash = "8b2d4e42dce327bf8ddb80c11782337869a02a0a774edbd54697c52d6f4c113d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/terracotta.json"
+hash = "5b211d9d24d3f1e3a3e4a52cd458d1fd42b2a8c9e3c8a6aead9f99f49ceb1028"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/wool.json"
+hash = "08b05c0788a7655c70f992c5a937b40851d5285603d481858f92e75e4bd57998"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_bed.json"
+hash = "3add8e83f05be96f72a4fb7aa1f98eec34c011ff96e8f6ad90f2050b533d8c2b"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_candle.json"
+hash = "d38574cacf4d9467bf064845916a4108faf0db8f127e5b35de1759a498785931"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_concrete_powder.json"
+hash = "ffec2f1062d12553e9948bde872f11c8226e0439c3ea56cdaa8be64cc12bc94e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_glazed_terracotta.json"
+hash = "56068e75bcd0e73b0ccc026f084ef98dfd4a8ac42fd34e69d181cf91acdd3723"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_stained_glass.json"
+hash = "ef02c0e149639596fedb46263148ae04b00241321e0e8c5f43eb9b338f584dfa"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_stained_glass_pane.json"
+hash = "95de384cb451fecfd9c5766735c9d96b0568da122ab0f4d2f91b75d8607371b5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_terracotta.json"
+hash = "495c9f9af9c2532ed83da8b02e35e909a58e2d9276d17b0136489f1c9676ef4c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/black_wool.json"
+hash = "d7493e6be796a1d1b7f456227f5bf699dfe58a8b7b813e6c8cb163a804ec90a5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_bed.json"
+hash = "18c96381eb652a7d03169cff66e0b76f7a32f471b9f5f02b1a3480262d483d70"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_candle.json"
+hash = "5ddf41fab54310d67139b977e69fb68e5a0202e98fd4cc598ef5dea5b6ef29b4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_concrete_powder.json"
+hash = "9031fea077945d14c7e20319f53d1dc1a673fd241660339ba221f01b4895156e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_glazed_terracotta.json"
+hash = "2c7a5f9452954c17c4b7d0d4300d27efd19d8b20ddc061b959f64dad1516c813"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_stained_glass.json"
+hash = "1679a0ae60879774fd39546f77503d3e5e46f7f4f00c38b126bca6ec3f600b05"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_stained_glass_pane.json"
+hash = "d9ec0e26b86038ecfc75ff14ef835f1343fec7e90441c2e55d38cb1e4b8aa710"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_terracotta.json"
+hash = "3e05ba26b0fcbdb7184cdba23c90ea43d8e9f9835b07b8a74c8b348c5205ade4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/blue_wool.json"
+hash = "be0a44c6b146d3314b9913160272cb3b2f84ccae2abc5b70b9682a04d76e537a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_bed.json"
+hash = "196ba271ce1873d2bf9213cbc3d54f9eebef4ba32ffe56d422cb8e62065b207f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_candle.json"
+hash = "d325859ec11db8c99066dbca7b34e7a4e4e1ab31b169f94c5d083b8e7ed0a945"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_concrete_powder.json"
+hash = "0b4890f1d9e89ba3e402529d68401b5bb842f36178d9ab4f399a1e621dfdd749"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_glazed_terracotta.json"
+hash = "5f1a557dede5162bd270eeecaf339ff90026fb4dc8546ebaf022c13b472d2265"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_stained_glass.json"
+hash = "e34fee7de594e17edc7ce12c8197806434f96d6bf6bee96e5a9c2ebd1c015515"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_stained_glass_pane.json"
+hash = "5b2de905e82972649ad9caa00c8d7a614e546225fc3565d9b25f99e41ee4347a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_terracotta.json"
+hash = "8f36f902af23c2adfc839e81370795860d4bcb5cc0ada236ead52da1250811c1"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/brown_wool.json"
+hash = "9fae6bc5f20386ed911b13a65e214fb674113d89994ed08cc28010fede083f01"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/candle.json"
+hash = "9c54f7e54950a221976a45e21e0b5dc3ecb6d0192c3f1c84da0201f4c414cef6"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_bed.json"
+hash = "daddf064456f99891a5c3821562fc942f7bf74cd300be109365a736a7da333b7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_candle.json"
+hash = "102b7be9bb0c81ec160ec317eac5dae010fc4b2c74a7627a6c5d2fe7569bd563"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_concrete_powder.json"
+hash = "ec8507b0cad660fbe599a8656e93d3195bc4ab74e86b5328f02ab14108edaad8"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_glazed_terracotta.json"
+hash = "93fe8549f388048add08aa450cb85d3514377ae5edc9e6e6cbacbddd19158a54"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_stained_glass.json"
+hash = "a14409d6c9927ebcace6d16d019399f02c7d7c4404be7b58c97e283eddbe1c74"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_stained_glass_pane.json"
+hash = "4296625ad758252633bf0fee592287a297f305c702d381b4672b5184f347bbd1"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_terracotta.json"
+hash = "770b0a8d888080f3dd41eeb3a5c7dc68f4a8527dc0d6d2966e3d4ab4e119e14d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/cyan_wool.json"
+hash = "77166e0bfae150ffc69e1c421c8e81dee9d38332e850b8f01b70bc2033841b3a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/glass.json"
+hash = "53fcf45d6aa8125c10f2fc02ecb86df349a0fbf5de832c5bb423fd8728838927"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/glass_pane.json"
+hash = "697f263b73bbd65563b6887b97e122fc595f4ae54504944441c9cec12ab3934a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_bed.json"
+hash = "57a672ddcdce777fa3593acffc8a26d557181d52f5442ad6cec65b93bea91229"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_candle.json"
+hash = "8f0c1e52e3219414f4100ab361aebe64668f0024b1365a6472468d1e0d99fca2"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_concrete_powder.json"
+hash = "a1aab13f9079d67edbcb6d64476c4714d671b83d8ecbee71cc47146a0aee9851"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_glazed_terracotta.json"
+hash = "d5be90d2597ca26d2a60c3e7c5a66cd264db2ba35f5a8739c45492630efcf5b3"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_stained_glass.json"
+hash = "9c6ac64e3488c93ad9c640bb723da00f17ef7981760ab221c27ad2d9218be4b5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_stained_glass_pane.json"
+hash = "22889f81fc55a3254032e569a14cc283553efa14c164bdd891e07beb78c24b79"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_terracotta.json"
+hash = "16d2b398c3aadc93d7708d3f5d8fc127ebc4fa0c3f7e48deedb74c775e830199"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/gray_wool.json"
+hash = "1824b8d0e757f0d71f8bbdd51fd27cb79648ff6e504a2123964da4dcff0087d9"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_bed.json"
+hash = "11826ee39d52c73d73e2bdf9015c7fafc849c2cdd716f5a52dc51df8a7ae0d5c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_candle.json"
+hash = "8b8ef60b0359967ae3cd46b86cb92385249973895f4364865e2632dfc3d4c2a7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_concrete_powder.json"
+hash = "19a22e0f485f5bfcf97e89752063a7f4673b3a56bbc6760ae513de4854b03d21"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_glazed_terracotta.json"
+hash = "e19a19d0013bd8baf914d39efc579cc0e36fd28539aee7aaef1e223255e1d74f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_stained_glass.json"
+hash = "d6c20381a485beb3c3a4a519e0ce4e1c6217edfb1c22150521a440fd285b865a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_stained_glass_pane.json"
+hash = "44d1739afcee7a7fdf5d3d08e1e553c8745d79279ec1073279f971d9b5c2abe2"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_terracotta.json"
+hash = "0090c7891a656ea977c350fb4bf2ef0f2a767fd7dec16ed667c979f5f02fe94e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/green_wool.json"
+hash = "45dd70eca4494831601c75020ecb5d4185228aa67b8f57c13ad76d31115c1d33"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_bed.json"
+hash = "c2be0993723e16af587eaf997a4f6fb08ff36ee52a0c699582f01d6ff6faa4ac"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_candle.json"
+hash = "ddf727f3bae2a4d56483a6c5e66618153132578d2ddb82cd1fabd38cd13adb27"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_concrete_powder.json"
+hash = "4796b227f17f35e85709d335ced84162a3110884ea871c85e8c44c1390fa0a89"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_glazed_terracotta.json"
+hash = "504a033f648ff06a0911f0e376cc4d426e42554f972d4ef68eb50e7e9f3d7da6"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_stained_glass.json"
+hash = "d67e930fd52f3740f4cb7fc18966496e9e6fcea0bc3d80adb35adb9fa6559e7c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_stained_glass_pane.json"
+hash = "53a022823cbdd5b5e94c52bc9aed44c7121296a17be6d671212bf82f2f84ecaa"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_terracotta.json"
+hash = "df99307818f097308c066461b1e912b9cfee69852779643bef68f407875b97af"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_blue_wool.json"
+hash = "ac08d65b1111f5640c3442f31f2ed0fbb806a34ef5dbbe5eab5b1ffd4ad43e95"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_bed.json"
+hash = "ca38ecc1b6dc0564cc0d7d41e8ceebf856faac322794d633e36384b515d10dc7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_candle.json"
+hash = "9c86215a971c8e0cd48d8883a80b132cdda15cf2a8cef551e001c17fcf748d0c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_concrete_powder.json"
+hash = "d11a2ee8e412a3be10212dc7259fb532f7a5d6c0e1a9f8fbb808715d33702102"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_glazed_terracotta.json"
+hash = "df4b590f568a34f7247ecc783c2239baa943da32d111f29ceff27ce8bb1d727a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_stained_glass.json"
+hash = "b2922a897bdd226f1560970bdb5d11ff927420d7e88c96fefa4d1672de0cd844"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_stained_glass_pane.json"
+hash = "77169698c642dd5b6a19d8e0f1019aae59a1817e9513f8ae4efcd44f9b983f70"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_terracotta.json"
+hash = "37c0f88f83b362dc1e28f8306de8616599be74d8742be7327723893ffc5028e7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/light_gray_wool.json"
+hash = "18f3802f7d8e69ed8e4bd032a7fc7cee8cfe7a0ca033611c7eb7a6031b22b6b8"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_bed.json"
+hash = "0cfcb1bb23fc44dda2674674846d11df11e6b970635457ec5c926e48f053e40a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_candle.json"
+hash = "667407fdd4e02dabe92b49711ec910c04afe78a9693c3d044859b9fc2bc6a375"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_concrete_powder.json"
+hash = "945228cc3f86e4a46ba971f56d1daf1e2fe98f45b5baf00ce1cecb4ac614f679"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_glazed_terracotta.json"
+hash = "5593525de71f3b454383c89be84d619f8a93ad4091cc7faa96bba5b0098e6ebe"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_stained_glass.json"
+hash = "0d0d4afd5f1af813c16e6254f0e96a97dd93c9ddf614d9816fe45489334c658e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_stained_glass_pane.json"
+hash = "d3c992a08be6e2292f12b288e2a1252cd243cd543772d9da6597cf5ac38709d5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_terracotta.json"
+hash = "e3dd14cc0c2f1271a31aa32612e99bf3f33c43160a1e23c13ca9a8d3a7fca5fd"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/lime_wool.json"
+hash = "a8d7c0942042a6c0be3b4bcfc03a1df493531b2beea982a4648cb63234f9cd51"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_bed.json"
+hash = "144eb2fdfbed9d235889c3b3b0e83f2c7026024215a1e64c4dfa5c8a039f37c6"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_candle.json"
+hash = "8c462539db536bbb3d99a299923a5c423832f58f1a6178e21dd96e1a507b5ee9"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_concrete_powder.json"
+hash = "4c364b6089c7093372816a98c8106518ce9e9e48df7ed7d213ba7a2d9e329334"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_glazed_terracotta.json"
+hash = "069f93c2ab1d853d71d98946aca162dbe9ade00d876456a2b2a3ed19358875f4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_stained_glass.json"
+hash = "00b136daef30942de194cb66c3f5162d5da1f16a2b1bcba2dc5629ccb7277a37"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_stained_glass_pane.json"
+hash = "6f4774f24be888a92e3ba7203728729df1f48142437325adbfb99698622d185c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_terracotta.json"
+hash = "42b628322ef747eef8ea3da26bf2ba1e5d693983e1d3f7ab7497f1fc0df413fc"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/magenta_wool.json"
+hash = "1e6798fc0b4b4ec294f85be7117a4d7aa0de2a52c312a354cca11eba0301dc05"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_bed.json"
+hash = "7d2344daca132527203f578fc5a041923199cdc7be210cf62b1d5712307a68d1"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_candle.json"
+hash = "2087e394c5a0b6e0054976f4291f7df9ba0a59ad81daf829a9198b60361d8887"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_concrete_powder.json"
+hash = "23f5e028ff0b1f0dce7d91e13a1df65553d3a0654ada205109bffbfb8f5b42ed"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_glazed_terracotta.json"
+hash = "26e3c7fd53738f2c9eee7b2f652716b6bbe34e4e43c5ed5905e96ba670dcda23"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_stained_glass.json"
+hash = "d61ead40f402f4364b72db7fbddac3b185dbfd8402c28b37b73c2f6d60e2dadc"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_stained_glass_pane.json"
+hash = "ef48a77620906eea7c84511573cc4e904b87a3d31775667153aa4f9201caa0fb"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_terracotta.json"
+hash = "5edfeead8deb33a596962986feb5eacd8297100f954140c5bfda8edfb1d02ee4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/orange_wool.json"
+hash = "1fb7bb0d7f2ccaee8606044226de8d48f44f291cd81ef067c9a0f81a22554da0"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_bed.json"
+hash = "e979aa01896d0419f432a30b18cacc055d1401a9ebc2c78355a1e18f7a0a953d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_candle.json"
+hash = "53b30ec0424556320c6e5c1593b6cb4b058400586f5745ffe267735eeacf56f9"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_concrete_powder.json"
+hash = "b9ddf84fc4f7110eb98af15aee3c7345dec3a6fe6c5a8fffbccaabbf82c91e0f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_glazed_terracotta.json"
+hash = "b11c7cc88b6878b3816f4d85b72a39b159a5dbbbcbb9fb35a4e1f2a6245bc526"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_stained_glass.json"
+hash = "bd31489b538a9ef96d1a09f2e4dfe683697809f6c92c95b693358e364abeed59"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_stained_glass_pane.json"
+hash = "49799f60165f5d043b06cb73d7c79c9100bf93b66c25d1c54a221aeb1538a16f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_terracotta.json"
+hash = "871323137a4b98e479ed018d7ca6fcfa4b50443105adc5ce01d75b8f9c7f34a9"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/pink_wool.json"
+hash = "58e7364ea6a569b2afb0efd3f71adb5ff1272715995cd10a888563eaad92295d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_bed.json"
+hash = "00ee829b5f8c5c08292ccc41d658dea232548563d2be80c14b913a0f145818f7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_candle.json"
+hash = "5be2531fc3657499c96378d74a3d0413f2f8bca6fbe1e08c3f01f434b7195168"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_concrete_powder.json"
+hash = "850a84b71b07a495702e87e78a26cb86b19cf2a6798c0db136a0bd4f952d49d7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_glazed_terracotta.json"
+hash = "0e1422152048bc8bbcd472a2dd6de4883b5004fed46c7655df0b0c00b8628bcc"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_stained_glass.json"
+hash = "e016fb749eb5f37aba9673120023d12824e28fdb7eca43c17e5b27b392e45cd5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_stained_glass_pane.json"
+hash = "5bb7d9f6b8e5dbff4ecfb19556df040c004976fe15757f09b83eea92d1550620"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_terracotta.json"
+hash = "164deaa5398a5576bb7bd7bb4e5bbecf445829789dafe989b1c6efef40ef5b9a"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/purple_wool.json"
+hash = "5b5792f3e6da5ec352c47cb39e9e43a2edf6189117b1335f817432e8a99b6fa7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_bed.json"
+hash = "b7648fc0b85f67cb944aad31703635a35bc896351824fe18e4cd1596e5aedfc6"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_candle.json"
+hash = "9a13a9d169a39a1f106d3a92c61d0c4b55ca6709927e287b6198e1e06c8408f8"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_concrete_powder.json"
+hash = "708c429a4769c68305831f2ff2202f9c3d902ca78d157a5302a0e3a73ead9f69"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_glazed_terracotta.json"
+hash = "1f4d45a09c2d7dd0ff02cf1ae9d19bbac0fb499b1ad3b7699698aa7f8b9ed52f"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_stained_glass.json"
+hash = "c74e97a4eb331415ac609b36bd47ae7cba6cd68b5aed207dc095168e06696a97"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_stained_glass_pane.json"
+hash = "9bd52e2e3f565a787dbd018a287d47e61e5ae03c2102b6491ce5dedfca7514b3"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_terracotta.json"
+hash = "50d4a271a2e2633cb1a06f6718b6dc1400cecc6a195ea33f36b4eec79319d536"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/red_wool.json"
+hash = "d15c7d48b15d734c870d24ee18d910510329abf37b744b5a9befc8cd43a69138"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/terracotta.json"
+hash = "a2a04eef16b2424e77f20212f839ed875d59c5502f4cad74ef0c3b25493fa3a1"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_bed.json"
+hash = "89b816634096a972e7acd8d4ce18d65b321142ef3366a8efeb418369c4e7af3e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_candle.json"
+hash = "04540fd6a0b2fe51d48398ede2d6382b9c870cf84f93a12d5c50dcd474fe60ad"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_concrete_powder.json"
+hash = "5844091620669c6c5c451f62cb774c5fdd29a4efb4a02d8e8de61279141f2f5b"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_glazed_terracotta.json"
+hash = "a7345da3f3a1d801bc889b7d9d2fd48005d7410f8d166d5d223712236a458dbb"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_stained_glass.json"
+hash = "ff9ffb554e6b3332ef1170ce20517cd719b71a21d3c4947037614c95e2d2939d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_stained_glass_pane.json"
+hash = "5c24a5df92b8369b0e3bc291c5625f31bb2389289a5f1f100dbcf7041e334bd4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_terracotta.json"
+hash = "ba61a60ade0d58039c9eab37412312ab07b3c698db8155bd60918435c93a0644"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/white_wool.json"
+hash = "f673ea35af2b366e7e6019c2bc47ae42bdb63d642a86d891114e85f3e967cfe4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_bed.json"
+hash = "3fc6a14fc89ee0b8409ff3c0ebd5fadf8d49f2b11b912fe653aeb649900c1a49"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_candle.json"
+hash = "7de1fc034f062104c1ac61a37f82f9754c1bf18b0dd984d26f31b9f893c169a7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_concrete_powder.json"
+hash = "4a88b86c731d0c64ba819f4305f302754a00f67c00dfe2d7e5b60e7346cf9358"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_glazed_terracotta.json"
+hash = "2eabe6287f05c62dacef793e38615c8d6ad523f5a7fa949c72e51eb89869f1dc"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_stained_glass.json"
+hash = "da9e77c12dfe2e331715e56fa1b4c414284ea28e41b0c1280d758cdc35cb7d36"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_stained_glass_pane.json"
+hash = "a6afa084fb19b0adf9ac0094ac66f6ee34eea1802dc032d6c44c1ea318798b8d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_terracotta.json"
+hash = "1b6d71626d481629dce579b906c426aa435cae7d4ed197939804b41c812499d3"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/recipes/yellow_wool.json"
+hash = "ad1bd72a4469b1ecc4cd8d57d274ba73ce4516e435ca543311551bf2f4a8da8e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/bed.json"
+hash = "28793a8ea070df989f7a7e7ca16225b9083a3604c595054dd7179fdd3c19ad7d"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/candle.json"
+hash = "a2c59880746ab65a1dacbd45088e1f7d8f23530b8c72d9b4a7e7b7cd1a82bcc4"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/concrete_powder.json"
+hash = "6e69194f4688e658267ad157e9de0289a5a88c59f2416e625b94daeda46142c5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/dyes.json"
+hash = "46f8a11ea28b8bb67d043f63b8528febb45be55f10a11f893596b07a7d960b95"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/dyes/black_dye.json"
+hash = "02d5a21097ba5ea906785dd0f27cfce13a7d7e5e5293820b92fc1f82f815ffa7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/dyes/blue_dye.json"
+hash = "1959b8b31fbed61856df4703f7c0bd4663a41289a6371a9b750922b76d64c55e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/dyes/brown_dye.json"
+hash = "8d69bad118aa731be3ebef6f23afbc4e5ea8615c5f9552adf4606ce3bdfe23d7"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/dyes/white_dye.json"
+hash = "f5a33a047cd9068dd327b905289f59e72fa7e3a857b8f512df337cd8891f6dca"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/glazed_terracotta.json"
+hash = "0e2277ee68e9a8e8d46ac87b90f805675328198c3f7830beeb28c768410b7477"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/stained_glass.json"
+hash = "3ab00bc168c4f9048706d70900dfbf7c0f398a5aa793faf940644c344eab9661"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/stained_glass_pane.json"
+hash = "84838d3a1d0757e8e6bdd0eebb285cccff1ffab7138af24e7c3396a892ea49a5"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/tags/items/terracotta.json"
+hash = "8a33231d202390b7adbdf6292b7f1ab21684aaac6ceb14d9e80c9253b7f69a4c"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/pack.mcmeta"
+hash = "ef5a6145ea2af376aaf9d3105d47dc3fdf0effd652366ac9156a211b36dd1fa3"

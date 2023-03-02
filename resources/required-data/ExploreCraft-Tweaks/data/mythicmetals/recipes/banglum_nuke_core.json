@@ -1,0 +1,24 @@
+{
+    "type": "crafting_shaped",
+    "group": "mythicmetals",
+    "pattern": [
+      "mbm",
+      "bub",
+      "mbm"
+    ],
+    "key": {
+      "m": {
+        "item": "mythicmetals:morkite_block"
+      },
+      "b": {
+        "item": "mythicmetals:banglum_block"
+      },
+      "u": {
+        "item": "mythicmetals:unobtanium_ore"
+      }
+    },
+    "result": {
+      "item": "minecraft:acacia_wood",
+      "count": 4
+    }
+  }
