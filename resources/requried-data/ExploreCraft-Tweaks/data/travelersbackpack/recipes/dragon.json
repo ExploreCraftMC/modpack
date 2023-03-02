@@ -1,0 +1,35 @@
+{
+    "type": "travelersbackpack:backpack_shaped",
+    "pattern":[
+    "mhm",
+    "bdb",
+    "rbr"
+    ],
+
+    "key": {
+        "d": {
+            "item": "travelersbackpack:standard"
+        },
+
+        "b": {
+            "item": "minecraft:obsidian"
+        },
+
+        "m": {
+            "item": "mythicupgrades:ametrine"
+        },
+
+        "h": {
+            "item": "minecraft:dragon_head"
+        },
+
+        "r": {
+            "item": "minecraft:dragon_breath"
+        }
+    },
+
+    "result": {
+        "item": "travelersbackpack:dragon",
+        "count": 1
+        }
+    }

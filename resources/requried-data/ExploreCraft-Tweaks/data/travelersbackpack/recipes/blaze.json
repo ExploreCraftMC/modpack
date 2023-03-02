@@ -1,0 +1,29 @@
+{
+    "type": "travelersbackpack:backpack_shaped",
+    "pattern": [
+        "mpm",
+        "cdc",
+        "bpb"
+    ],
+    "key": {
+        "d": {
+            "item": "travelersbackpack:standard"
+        },
+        "m": {
+            "item": "mythicmetals:midas_gold_block"
+        },
+        "p": {
+            "item": "mythicmetals:palladium_ingot"
+        },
+        "c": {
+            "item": "mythicmetals:celestium_ingot"
+        },
+        "b": {
+            "item": "create:blaze_cake"
+        }
+    },
+    "result": {
+        "item": "travelersbackpack:blaze",
+        "count": 1
+    }
+}

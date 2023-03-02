@@ -1,10 +1,9 @@
 {
-    "type": "crafting_shaped",
-    "group": "mythicmetals",
+    "type": "minecraft:crafting_shaped",
     "pattern": [
-      "mbm",
-      "bub",
-      "mbm"
+      "mcm",
+      "cbc",
+      "mcm"
     ],
     "key": {
       "m": {
@@ -13,12 +12,12 @@
       "b": {
         "item": "mythicmetals:banglum_block"
       },
-      "u": {
-        "item": "mythicmetals:unobtanium_ore"
+      "c": {
+        "item": "mythicmetals:banglum_chunk"
       }
     },
     "result": {
-      "item": "minecraft:acacia_wood",
-      "count": 4
+      "item": "mythicmetals:banglum_nuke_core",
+      "count": 1
     }
   }
