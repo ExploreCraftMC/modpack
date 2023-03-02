@@ -889,6 +889,18 @@ hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
 
 [[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/adapaxels/textures/item/pendorite_paxel.png"
+hash = "0dcfc896af4b66a0f6adfff8e01ab3b67804b2defe18eba2d031e05e4a7e86db"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/pack.mcmeta"
+hash = "870ebf2bb126f86410f1d27a45b2c4cafed48811eef532634ee1740b4569b1c1"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/pack.png"
+hash = "9f4f45f48072314f152c642caf157f787181e025e228e3ebe38715e65676210a"
+
+[[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/craftable_bundles_leather/advancements/recipes/bundle_leather.json"
 hash = "0200f33c84d5a6c6ae3306156724abe3e63d38079c02e630c45b3b19dfbdc179"
 
@@ -989,8 +1001,8 @@ file = "resources/required-data/ExploreCraft-Tweaks/data/minecraft/recipes/warpe
 hash = "9678e4c4f4b00591ea8ce602ee747a99ada7926542487807206f82e21e47e44b"
 
 [[files]]
-file = "resources/required-data/ExploreCraft-Tweaks/data/mythicmetals/recipes/banglum_nuke_core.json"
-hash = "7cba4054b827ad383bc9bb566f01b68f985781ee84cf54a786e2aa4f7fa90b67"
+file = "resources/required-data/ExploreCraft-Tweaks/data/mythicmetals/recipes/crafting/banglum_nuke_core.json"
+hash = "2124cae9391a372600ab5ee7ab6e764c068c0683daf7f15879fc607599685f49"
 
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/advancements/recipes/building_blocks/red_sand.json"
@@ -1015,6 +1027,18 @@ hash = "3fb0b49aea04627ee7bb399d8c6a2d6cc3faddd1f23c5f94c12859cacd415c71"
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/sandstone_dyeing/recipes/smooth_red_sandstone.json"
 hash = "79b7a09d2ac4f920d0bf634e8817b40e1104624921b98e71a249c4480a12761e"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/travelersbackpack/recipes/blaze.json"
+hash = "96b875dceeb492c74ef77dc5d9dcd027218c0ed6212a35e7613ed698e879c217"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/travelersbackpack/recipes/dragon.json"
+hash = "c9e272f2ac91adbc5acc30dcb2a1224853afd54fb91f223bd890108f664316a1"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/travelersbackpack/recipes/enderman.json"
+hash = "8594297ec8976fad33cffffdde5c778ca41eac0fdf74ea16e5a214a75008f9e3"
 
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/universal_dyeing/advancements/recipes/building_blocks/universal_dyeing/bed.json"
@@ -1627,3 +1651,7 @@ hash = "8a33231d202390b7adbdf6292b7f1ab21684aaac6ceb14d9e80c9253b7f69a4c"
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/pack.mcmeta"
 hash = "ef5a6145ea2af376aaf9d3105d47dc3fdf0effd652366ac9156a211b36dd1fa3"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/pack.png"
+hash = "9f4f45f48072314f152c642caf157f787181e025e228e3ebe38715e65676210a"
