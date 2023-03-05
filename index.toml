@@ -920,7 +920,7 @@ hash = "2409bfe97d21d779aa8e0d2af1976727c12026a5a246184446b4cebde148c948"
 
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/createaddition/recipes/mechanical_crafting/electric_motor.json"
-hash = "328be5fa7ea3f48347b786304d43d0f2aa7d439fc8feec2222f438325f0fedda"
+hash = "946db15e32aa1c221cc60ca56234fe0431df8aef9c6edb8693529a0a1c70d72f"
 
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/advancements/recipes/building_blocks/dropper_to_dispenser/dispenser.json"
