@@ -309,6 +309,11 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
+file = "mods/limits-grapple.pw.toml"
+hash = "d3e7af0e25bda336bf9991e8a4372b75212dab4fc74eaaebb33f04a5347ac17f"
 metafile = true
 
 [[files]]
@@ -907,6 +917,10 @@ hash = "0200f33c84d5a6c6ae3306156724abe3e63d38079c02e630c45b3b19dfbdc179"
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/craftable_bundles_leather/recipes/bundle_leather.json"
 hash = "2409bfe97d21d779aa8e0d2af1976727c12026a5a246184446b4cebde148c948"
+
+[[files]]
+file = "resources/required-data/ExploreCraft-Tweaks/data/createaddition/recipes/mechanical_crafting/electric_motor.json"
+hash = "328be5fa7ea3f48347b786304d43d0f2aa7d439fc8feec2222f438325f0fedda"
 
 [[files]]
 file = "resources/required-data/ExploreCraft-Tweaks/data/dropper_to_dispenser/advancements/recipes/building_blocks/dropper_to_dispenser/dispenser.json"
