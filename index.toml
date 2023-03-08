@@ -609,6 +609,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/morecreativetabs.pw.toml"
+hash = "8c2eea066d4a6237817716b35c1d372af677bd478dcd53fbe3988bc5a0527cc6"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "cd967c21f387fe21b1cd2bf62a14521029c989314a75cc56d76190edf5563c37"
 metafile = true
@@ -901,6 +906,54 @@ metafile = true
 [[files]]
 file = "resources/required-assets/ExploreCraft-Tweaks/assets/adapaxels/textures/item/pendorite_paxel.png"
 hash = "0dcfc896af4b66a0f6adfff8e01ab3b67804b2defe18eba2d031e05e4a7e86db"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/lang/en_us.json"
+hash = "3fd20e7e6630b06f3fb739aef590b41611ce995ba6978768d7abe62151a3e080"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/10_spawn_eggs.json"
+hash = "a53d967320e76a7fe0f36bd1c3c67ca2dd3d0fca89a3e73183cec5564dc0ad2e"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/11_operator.json"
+hash = "8a7ede95f3f9870fd52aee27300880149e731ef91fa19931852a3aed5dd32bd0"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/brewing.json"
+hash = "a20e58e3e407346bb73798caab50b1a4b2bd09d7ca62c3e3375bc538449dfdfa"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/building_blocks.json"
+hash = "486e63749222e2c1f84c49cbd04ebec4a189addb41cf4604efcc812ca2e6cfcf"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/combat.json"
+hash = "d08e51b9bcb5daf0ef5e984d17092bbe6ed706911c1a9b65c1033a293242fbfc"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/decorations.json"
+hash = "240da76ab1dde27dd581b6df6248fef1c200b827ba9cadd32718c3df1b8e44ca"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/food.json"
+hash = "b3f366f68bc6045fda1ec79cc55afe716e3554bfe9ce678f663cd663bbca1647"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/misc.json"
+hash = "f7ed3b1b14701b3fadad1d64c718f5c4710e9c284c8c3e721dddebc8e60a92aa"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/redstone.json"
+hash = "f6522f19da55ff64232ede0995cc24cb4f40aad39385054a720ead93892d2e74"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/tools.json"
+hash = "bbbf0b955fee0f246a5c63ac579c02752694286b0b1e4b47c86b258d020f8465"
+
+[[files]]
+file = "resources/required-assets/ExploreCraft-Tweaks/assets/minecraft/morecreativetabs/transportation.json"
+hash = "9755001700c8875ebefe90221044205f56b79e378275663de68cb578a5ee482b"
 
 [[files]]
 file = "resources/required-assets/ExploreCraft-Tweaks/pack.mcmeta"
