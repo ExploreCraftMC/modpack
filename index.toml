@@ -85,6 +85,10 @@ file = "config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
+file = "config/tokenablefurnaces.json"
+hash = "a33d04b053faccfc7029ac16e14a3ee1e07ee2da18b7fc678e44a9b06c615f12"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "3fe32487221f8aa35e6f31647078a3484c3da586b76c20ee96dfef4d21d45dc3"
 
@@ -434,6 +438,11 @@ hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
 metafile = true
 
 [[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "0653c582c097c9db8cdb1afa2ea049e0e2f4d28006b33a82cb8535629b925ae5"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -631,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "928049dc37b7b41a8d7cadf9977d183527c74744f9dce884c9c04a76b3276832"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
