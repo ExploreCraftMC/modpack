@@ -53,6 +53,10 @@ file = "config/global_data_and_resourcepacks.toml"
 hash = "71d2c6cc31654e6d31b143b16a8c8d77aa6b32ca17f8816c5013e2a91100ee44"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "1c5a09efdb61f50dd2c2ac2a93f4073969d58944e20538d90db67b87f4d43c38"
+
+[[files]]
 file = "config/legendarytooltips-common.toml"
 hash = "3429f00928014fb571566d4acf962570d79c5a40ef7f2882ac3298d44ee5d0e8"
 
@@ -438,11 +442,6 @@ hash = "7cc764aef1bb942d7c5079f4f0c7a6e3a538e043d33186a64890ed869f56dc42"
 metafile = true
 
 [[files]]
-file = "mods/goml-reserved.pw.toml"
-hash = "0653c582c097c9db8cdb1afa2ea049e0e2f4d28006b33a82cb8535629b925ae5"
-metafile = true
-
-[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
 metafile = true
@@ -593,6 +592,11 @@ hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
 file = "mods/mimic.pw.toml"
 hash = "4ac042bd40887184574cb152c49344380bffdc8f036fb42e8792efa0731981da"
 metafile = true
@@ -675,6 +679,16 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "2dca35a5012c266919b0443106303c26f67f655f85e895faf4802b891bfd571a"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ce638706dae5cff9163262d4c5db8b1af749339b5e6921e1fd3a642ad9c7079b"
 metafile = true
 
 [[files]]
@@ -870,6 +884,16 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
 
 [[files]]
