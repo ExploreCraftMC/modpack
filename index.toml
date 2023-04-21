@@ -322,6 +322,11 @@ hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "4a2470ad0e5ab7b76b4e503a45907b6550c54d1e1d492671f2755d2a3143913c"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "59c6d5913981335b2a8870c74497807e575ee5d2843391ef708527bdbb1adbc8"
 metafile = true
@@ -463,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5614ca4643bbe3a06f82ac1d8b37de97f2a708ff1e01bcdd48dd2ddf0ad6d4cc"
+hash = "2456ea1de758826e0ff9043ae1241d53de5ad0d8c9773e1798b505571ea542f0"
 metafile = true
 
 [[files]]
