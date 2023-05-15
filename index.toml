@@ -69,6 +69,10 @@ file = "config/mythicmetals.json5"
 hash = "172fbcaebcaa40c0d5e5afc11253fd40b67c2987ed65a1f678c44be4260a68d3"
 
 [[files]]
+file = "config/puzzle.json"
+hash = "7dddd9b8df252ed38ad83a27d0d49145c1697abdf1d7ddb1a24ae6cf7683f6df"
+
+[[files]]
 file = "config/roughlyenoughitems/config.json5"
 hash = "95a4f07391ba7e8c2489540d8f074e8663805d876ffd966e3c13db05d0bc3166"
 
@@ -314,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
 metafile = true
 
 [[files]]
