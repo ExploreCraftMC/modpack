@@ -317,6 +317,11 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "8d03cff468c91772a76e3d52e4b81f8c0a29d0038f408a4be88d857568a2914a"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8260c756c1da49c5c97ef81d1442018979d6979aac0e37a79c864a680e15cf5d"
 metafile = true
@@ -468,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2456ea1de758826e0ff9043ae1241d53de5ad0d8c9773e1798b505571ea542f0"
+hash = "7aa463e0319211877de7a16e99b5e5315e78ac78e989a5f93d2d14fc448a0ea4"
 metafile = true
 
 [[files]]
