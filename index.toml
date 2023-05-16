@@ -671,6 +671,11 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/no-mob-farms.pw.toml"
+hash = "582b3d7d0248fa413c18939f3aeb283000b0af08bfb23c28a1fe73a793a92d11"
+metafile = true
+
+[[files]]
 file = "mods/no-shield-delay.pw.toml"
 hash = "11d7d7dac686582ef0fd37ff3fb19334c3c39625c2f7d8050e5133b492136453"
 metafile = true
